@@ -1,4 +1,4 @@
-Python Voice Assistant
+# Python Voice Assistant
 
 A beginner-friendly voice assistant built in Python. Jarvis listens for a wake word, understands basic voice commands, and answers general questions using Google's Gemini AI, combining speech recognition, text-to-speech, and a large language model into a single assistant.
 
